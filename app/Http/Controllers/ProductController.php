@@ -97,6 +97,6 @@ class ProductController extends Controller
         $products = $query->paginate($request->pageSize, ['*'], 'page', $request->pageNumber);
 
         return ResponseHandler::success($products, $request->pageSize, $request->pageNumber);
-        //create branch b and change on it, change on master separately and then merge them.
+        // add changes again to branchB
     }
 }
