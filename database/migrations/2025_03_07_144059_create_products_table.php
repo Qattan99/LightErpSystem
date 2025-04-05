@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('details');
             $table->foreignId('type_id');
             $table->string('color');
+            $table->integer('cost')->nullable();
             $table->timestamps();
         });
     }

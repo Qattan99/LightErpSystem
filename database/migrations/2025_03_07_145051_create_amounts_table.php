@@ -16,7 +16,6 @@ return new class extends Migration
             $table->foreignId('product_id');
             $table->foreignId('branch_id');
             $table->integer('quantity');
-            $table->integer('cost');
             $table->integer('final_price');
             $table->boolean('is_active');
             $table->timestamps();

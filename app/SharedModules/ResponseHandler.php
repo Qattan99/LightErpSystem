@@ -9,12 +9,13 @@ class ResponseHandler
 
     }
 
-    public static function success($data, int $pageSize, int $pageNumber, bool $status = true){
+    public static function success($data, int $totalCount = 0, int $pageNumber = 1, bool $status = true){
         return response()->json([
             'status' => $status,
+            'message' => "Success",
             'data' => $data,
             'pageNumber' => $pageNumber,
-            'pageSize' => $pageSize,
+            'totalCount' => $totalCount,
         ]);
     }
 
@@ -22,6 +23,9 @@ class ResponseHandler
         return response()->json([
             'status' => $status,
             'message' => $message,
+            'data' => null,
+            'pageNumber' => 1,
+            'pageSize' => 0,
         ]);
     }
 }
