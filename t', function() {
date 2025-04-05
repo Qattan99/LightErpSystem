@@ -1,0 +1,98 @@
+[33mcommit 7a4d56df8fcafcf3db0d971acad07cf49f0cdadb[m[33m ([m[1;36mHEAD -> [m[1;32mbranchB[m[33m)[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Sat Apr 5 13:42:36 2025 +0300
+
+    just testing.
+
+[33mcommit 115b919aa32b3695539364f06767a0112eae82ec[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Sat Apr 5 11:08:32 2025 +0300
+
+    railway.json added.
+
+[33mcommit ca4778361595eea97c3feb01986779b4001ae701[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Sat Apr 5 08:03:54 2025 +0300
+
+    railway.json added.
+
+[33mcommit e4630f7b8f047ad3bb62f325b6d49ea2f9019dd7[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Sat Apr 5 06:33:16 2025 +0300
+
+    Updating on ProductController, creating ProductTypeController.
+
+[33mcommit 60c94acf24cb53ec9905b7af6c3081a3c3b561c6[m[33m ([m[1;31morigin/branchB[m[33m)[m
+Merge: 8b56314 fe1d4f6
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:45:08 2025 +0300
+
+    inside branchB: I did merge with master.
+
+[33mcommit fe1d4f6434638a5969caf671c99d29cb2cd17e28[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:42:32 2025 +0300
+
+    change master 3d time after merging 2.
+
+[33mcommit 8b563147ae32ed277c0d906a5fa0447fc93c244d[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:39:54 2025 +0300
+
+    change branchB 3d time again aafter mergin2.
+
+[33mcommit 21a3ebefaff5fd034837b246f499314cefe27aab[m
+Merge: 1ba5be6 9c35166
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:33:47 2025 +0300
+
+    merging master again with branchB.
+
+[33mcommit 9c35166b7302c06776367277e9b6f9b55198b646[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:16:52 2025 +0300
+
+    change branchB again after merging with master.
+
+[33mcommit 1ba5be6aa74fdc969a88c0796a74d0dd9aa454f3[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:15:07 2025 +0300
+
+    change master after merging with branchB.
+
+[33mcommit c8dd84266bb368489a1fed80aeb08b45a58dd831[m
+Merge: 3d2857c 0ec5453
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:12:28 2025 +0300
+
+    merge master with branchB.
+
+[33mcommit 0ec54534cdba236db2d5790401eb6d96f35dcd7b[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:10:47 2025 +0300
+
+    again add changes to branchB.
+
+[33mcommit 3d2857ca67014f5a6420e79fe36b9aba09c7d730[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:07:54 2025 +0300
+
+    add changes to master.
+
+[33mcommit cef621e96ebfc09db422c847d38cae2251a09d6e[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:06:58 2025 +0300
+
+    add changes to branchB.
+
+[33mcommit 70c254536135966d43416a8a4792f3fd0ea65ee6[m[33m ([m[1;31morigin/branchA[m[33m, [m[1;32mbranchA[m[33m)[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 17:02:51 2025 +0300
+
+    add changes to branchA.
+
+[33mcommit 64cebb5a91279739654200fd7609184ae71dcec7[m
+Author: Qattan <mohamad99qattan@gmail.com>
+Date:   Fri Mar 21 16:51:34 2025 +0300
+
+    initial commit.

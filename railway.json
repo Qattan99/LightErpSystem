@@ -1,0 +1,15 @@
+{
+    "build": {
+        "command": "composer install --no-dev && php artisan optimize:clear && php artisan optimize"
+    },
+    "deploy": {
+        "command": "php artisan migrate --force && php artisan db:seed --force"
+    },
+    "require": {
+        "php": "^8.1",
+        "ext-pdo": "*",
+        "ext-pgsql": "*",
+        "ext-mbstring": "*"
+    }
+
+}
