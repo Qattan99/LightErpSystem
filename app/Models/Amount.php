@@ -11,7 +11,6 @@ class Amount extends Model
         'product_id',
         'branch_id',
         'quantity',
-        'cost',
         'final_price',
         'is_active',
     ];
